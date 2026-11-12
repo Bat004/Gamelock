@@ -1,2 +1,2 @@
 # Pauselock
-A Deadlock minigame during pause
+Tired of Deadlock ? Play minigames in lobby 
